@@ -5,7 +5,6 @@
 ## Services
 
 - [`pulse`](https://open-learning.org/pulse/)
-- [`profile`](https://open-learning.org/profile/)
+- [`directory`](https://open-learning.org/directory/)
 - [`academy`](https://open-learning.org/academy/)
-- [`git4ol-course`](https://github.com/open-learning/git4ol-course/)
-- [`vault`](https://open-learning.org/vault/)
+- [`locker`](https://open-learning.org/locker/)
