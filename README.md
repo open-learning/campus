@@ -5,6 +5,6 @@
 ## Services
 
 - [`pulse`](https://open-learning.org/pulse/)
-- [`directory`](https://open-learning.org/directory/)
+- [`profile`](https://open-learning.org/profile/)
 - [`academy`](https://open-learning.org/academy/)
 - [`locker`](https://open-learning.org/locker/)
