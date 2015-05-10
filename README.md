@@ -4,7 +4,7 @@
 
 ## Services
 
-- [`pulse`](https://open-learning.org/pulse/)
-- [`profile`](https://open-learning.org/profile/)
-- [`academy`](https://open-learning.org/academy/)
-- [`locker`](https://open-learning.org/locker/)
+- [`open-learning` pulse](https://open-learning.org/pulse/)
+- [`open-learning` profile](https://open-learning.org/profile/)
+- [`open-learning` academy](https://open-learning.org/academy/)
+- [`open-learning` locker](https://open-learning.org/locker/)
