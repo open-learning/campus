@@ -4,8 +4,8 @@
 
 ## Services
 
+- [`open-learning` profile](https://open-learning.org/profile/)
 - [`open-learning` pulse](https://open-learning.org/pulse/)
 - [`open-learning` memory](http://open-learning.org/memory/)
-- [`open-learning` profile](https://open-learning.org/profile/)
 - [`open-learning` academy](https://open-learning.org/academy/)
 - [`open-learning` locker](https://open-learning.org/locker/)
