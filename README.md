@@ -1,4 +1,4 @@
-# Open Learning Campus
+# Open-Learning Campus
 
 Campus is a collection of public instance of [`git4ol-infrastructure`](//github.com/open-learning/git4ol-infrastructure) operated by the [open-learning foundation](//github.com/open-learning/foundation).
 
