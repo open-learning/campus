@@ -1,11 +1,11 @@
 # Open Learning Campus
 
-`open-learning` campus is a collection of public instance of [`git4ol-infrastructure`](http://github.com/open-learning/git4ol-infrastructure/) operated by the [`open-learning` foundation](http://open-learning.org/foundation/).
+Campus is a collection of public instance of [`git4ol-infrastructure`](//github.com/open-learning/git4ol-infrastructure) operated by the [open-learning foundation](//github.com/open-learning/foundation).
 
 ## Services
 
-- [`open-learning` profile](https://open-learning.org/profile/)
-- [`open-learning` pulse](https://open-learning.org/pulse/)
-- [`open-learning` memory](http://open-learning.org/memory/)
-- [`open-learning` academy](https://open-learning.org/academy/)
-- [`open-learning` locker](https://open-learning.org/locker/)
+- [open-learning profile](//github.com/open-learning/profile)
+- [open-learning pulse](//github.com/open-learning/pulse)
+- [open-learning memory](//github.com/open-learning/memory)
+- [open-learning academy](//github.com/open-learning/academy)
+- [open-learning locker](//github.com/open-learning/locker)
