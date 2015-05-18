@@ -1,6 +1,6 @@
 # Open-Learning Campus
 
-Campus is a public instance of [`git4ol-infrastructure`](//github.com/open-learning/git4ol-infrastructure) operated by the [open-learning foundation](//github.com/open-learning/foundation).
+Campus is a public instance of all the [`git4ol-services`](//github.com/open-learning/git4ol-services) operated by the [open-learning foundation](//github.com/open-learning/foundation).
 
 ## Services
 
