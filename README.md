@@ -9,3 +9,4 @@ Campus is a public open-learning ecosystem operated by the [open-learning founda
 - [open-learning `memory`](//github.com/open-learning/memory)
 - [open-learning `academy`](//github.com/open-learning/academy)
 - [open-learning `locker`](//github.com/open-learning/locker)
+- [open-learning `bazaar`](//github.com/open-learning/bazaar)
